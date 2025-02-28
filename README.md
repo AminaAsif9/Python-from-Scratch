@@ -28,7 +28,7 @@
 - 📹 [Recorded Lecture]()
 - 💻 [Colab Notebook]()
 - **Concepts Covered**:
-  - 
+  - Installation
 
 
 ### Day 3 - Basic Syntax, Comments, Keywords, Python Variables, Assigning Values.
@@ -36,20 +36,20 @@
 - 📹 [Recorded Lecture]()
 - 💻 [Colab Notebook]()
 - **Concepts Covered**:
-  - 
+  - Syntax
 
 ### Day 4 - Getting Address, Data Types, Type Casting, Taking User Input.
 - 📝 [Lecture Notes]()
 - 📹 [Recorded Lecture]()
 - 💻 [Colab Notebook]()
 - **Concepts Covered**:
-  - 
+  - Data Types
 
 ### Day 5 - Operators (Arithmetic, Assignment, Comparison, Logical, Membership and Identical).
 - 📝 [Lecture Notes]()
 - 📹 [Recorded Lecture]()
 - 💻 [Colab Notebook]()
 - **Concepts Covered**:
-  - 
+  - Operators
 
 ## Week 2: Conditions and Loops
