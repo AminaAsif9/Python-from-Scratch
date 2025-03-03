@@ -5,10 +5,10 @@
 - **Schedule**: Monday to Friday, 6 AM - 7 AM 
 - **Trainers**: 
   - [Amina](https://www.linkedin.com/in/amina-work/)
-  - [Mujahid Afridi]()
+  - [Mujahid Afridi](https://linkedin.com/in/mujahid-Afridi)
 - **Moderators**:
-  - [Asad Bukhari]()
-  - [Mujib ur Rehman]()
+  - [Asad Bukhari](https://www.linkedin.com/in/asadbukhari886/)
+  - [Mujib ur Rehman](https://www.linkedin.com/in/mujib-ur-rahman/)
 
 
 ## Course Contents
@@ -17,7 +17,7 @@
 
 ### Day 1 - Introduction to Programming Language and Importance of Python.
 - 📝 [Lecture Notes]()
-- 📹 [Recorded Lecture]()
+- 📹 [Recorded Lecture](https://www.facebook.com/iCodeguru/videos/1119568526637227)
 - 💻 [Colab Notebook]()
 - **Concepts Covered**:
   - Fundamentals of Python
