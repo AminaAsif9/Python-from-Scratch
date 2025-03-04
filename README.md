@@ -28,7 +28,8 @@
 - 📹 [Recorded Lecture]()
 - 💻 [Colab Notebook]()
 - **Concepts Covered**:
-  - Installation
+  - IDE Setup
+  - Python Basics
 
 
 ### Day 3 - Basic Syntax, Comments, Keywords, Python Variables, Assigning Values.
