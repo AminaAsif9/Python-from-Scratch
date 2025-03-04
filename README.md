@@ -17,7 +17,7 @@
 
 ### Day 1 - Introduction to Programming Language and Importance of Python.
 - 📝 [Lecture Notes]()
-- 📹 [Recorded Lecture](https://www.facebook.com/iCodeguru/videos/1119568526637227)
+- 📹 [Lecture Recording](https://www.facebook.com/iCodeguru/videos/1119568526637227)
 - 💻 [Colab Notebook]()
 - **Concepts Covered**:
   - Fundamentals of Python
@@ -25,7 +25,7 @@
 
 ### Day 2 - Compiler vs Interpreter, Installation and IDE setup.
 - 📝 [Lecture Notes]()
-- 📹 [Recorded Lecture]()
+- 📹 [Lecture Recording](https://www.facebook.com/iCodeguru/videos/963051185938269)
 - 💻 [Colab Notebook]()
 - **Concepts Covered**:
   - IDE Setup
@@ -34,7 +34,7 @@
 
 ### Day 3 - Basic Syntax, Comments, Keywords, Python Variables, Assigning Values.
 - 📝 [Lecture Notes]()
-- 📹 [Recorded Lecture]()
+- 📹 [Lecture Recording]()
 - 💻 [Colab Notebook]()
 - **Concepts Covered**:
   - Syntax
