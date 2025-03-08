@@ -34,23 +34,40 @@
 
 ### Day 3 - Basic Syntax, Comments, Keywords, Python Variables, Assigning Values.
 - 📝 [Lecture Notes]()
-- 📹 [Lecture Recording]()
+- 📹 [Lecture Recording](https://www.facebook.com/iCodeguru/videos/869281148598465)
 - 💻 [Colab Notebook]()
 - **Concepts Covered**:
   - Syntax
+  - Variables, Comments
+  - Assigning Values
+  - Taking Input
 
 ### Day 4 - Getting Address, Data Types, Type Casting, Taking User Input.
 - 📝 [Lecture Notes]()
-- 📹 [Recorded Lecture]()
+- 📹 [Recorded Lecture](https://web.facebook.com/iCodeguru/videos/9167971199958888)
 - 💻 [Colab Notebook]()
 - **Concepts Covered**:
   - Data Types
+  - Basic Problem Practice
+  - Operators
 
 ### Day 5 - Operators (Arithmetic, Assignment, Comparison, Logical, Membership and Identical).
 - 📝 [Lecture Notes]()
-- 📹 [Recorded Lecture]()
-- 💻 [Colab Notebook]()
+- 📹 [Recorded Lecture](https://web.facebook.com/iCodeguru/videos/677758811346709)
+- 💻 [Colab Notebook](https://colab.research.google.com/drive/1pH_40mSkeySL6tZ0_viJxTt816zx--oS?usp=sharing)
 - **Concepts Covered**:
+  - Basics Summarized
   - Operators
+  - Escape Characters
+  - Practice Problems
 
 ## Week 2: Conditions and Loops
+### Day 1 - Introduction to Conditions (if, elif, else) and Short-hand Conditions.
+
+### Day 2 - Logical Operators in Conditions, Nested Conditions and Pass Statement + Practice.
+
+### Day 3 - Introduction to Loops, While Loop.
+
+### Day 4 - For Loop.
+
+### Day 5- - Practice + Mini-Project
