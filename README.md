@@ -1,3 +1,5 @@
+![](https://github.com/AminaAsif9/Python-from-Scratch/blob/main/Learn%20Python%20from%20scratch.jpg)
+
 # Learn Python from Scratch
 
 ## Course Information
