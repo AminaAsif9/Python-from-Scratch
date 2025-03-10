@@ -80,3 +80,22 @@
 ### Day 4 - For Loop.
 
 ### Day 5- - Practice + Mini-Project
+
+
+
+## Resources
+
+### Prerequisites
+- None
+
+### Weekly Presentation Guidelines
+- Present your topic and solution approach
+- Code walkthrough
+- Q&A session
+
+## Getting Help
+- Open an issue for technical problems
+- Use discussion forum for concept clarifications
+- Contact moderators for administrative queries
+
+---
