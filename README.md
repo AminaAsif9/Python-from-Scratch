@@ -63,6 +63,13 @@
 
 ## Week 2: Conditions and Loops
 ### Day 1 - Introduction to Conditions (if, elif, else) and Short-hand Conditions.
+- 📝 [Lecture Notes](https://drive.google.com/file/d/1kqga1vnbnPZHL7uinSdDVibbww98FgF9/view?usp=sharing)
+- 📹 [Recorded Lecture](https://www.facebook.com/iCodeguru/videos/1957460268115464)
+- 💻 [Colab Notebook](https://colab.research.google.com/drive/1qfk7hcbhPPn5QpzKrZmB_zq5zxz6Spim?usp=sharing#scrollTo=8oPa_-rFkL_O)
+- **Concepts Covered**:
+  - if, if else, elif Conditions
+  - Nested Conditions
+  - Short-hand Conditions
 
 ### Day 2 - Logical Operators in Conditions, Nested Conditions and Pass Statement + Practice.
 
