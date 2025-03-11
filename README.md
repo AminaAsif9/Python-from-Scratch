@@ -74,6 +74,14 @@
   - Short-hand Conditions
 
 ### Day 2 - Logical Operators in Conditions, Nested Conditions and Pass Statement + Practice.
+- 📝 [Lecture Notes](https://drive.google.com/file/d/1Ew815hyfw6-pXbb_3QiGGiepGLGL9AZi/view?usp=sharing)
+- 📹 [Recorded Lecture]()
+- 💻 [Colab Notebook](https://colab.research.google.com/drive/1qfk7hcbhPPn5QpzKrZmB_zq5zxz6Spim?usp=sharing#scrollTo=8oPa_-rFkL_O)
+- **Concepts Covered**:
+  - Logical Operators in Conditions
+  - Nested Conditions in detail
+  - Pass Statement
+  - Programs + Practice
 
 ### Day 3 - Introduction to Loops, While Loop.
 
