@@ -89,12 +89,20 @@
 - 💻 [Colab Notebook](https://colab.research.google.com/drive/1ft8lUQ6ZQhuZM7ZmqCll433DqztzEccK?usp=sharing)
 - **Concepts Covered**:
   - Loops in Python
-  - While loop
-  - Break, Continue Statement in while loop
+  - While Loop
+  - Break, Continue Statement in While Loop
   - Programs 
 
 ### Day 4 - For Loop.
-
+- 📝 [Lecture Notes](https://drive.google.com/file/d/1q01mK6PUcC4b6Jc8FatPl0nXiRHm3FKg/view?usp=sharing)
+- 📹 [Recorded Lecture]()
+- 💻 [Colab Notebook](https://colab.research.google.com/drive/1ft8lUQ6ZQhuZM7ZmqCll433DqztzEccK?usp=sharing)
+- **Concepts Covered**:
+  - For Loop
+  - Range Function
+  - Break, Continue Statement in For Loop
+  - Nested Loop
+ 
 ### Day 5- - Practice + Mini-Project
 
 
