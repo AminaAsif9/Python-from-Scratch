@@ -75,7 +75,7 @@
 
 ### Day 2 - Logical Operators in Conditions, Nested Conditions and Pass Statement + Practice.
 - 📝 [Lecture Notes](https://drive.google.com/file/d/1Ew815hyfw6-pXbb_3QiGGiepGLGL9AZi/view?usp=sharing)
-- 📹 [Recorded Lecture]()
+- 📹 [Recorded Lecture](https://www.facebook.com/iCodeguru/videos/1171582747506785)
 - 💻 [Colab Notebook](https://colab.research.google.com/drive/1qfk7hcbhPPn5QpzKrZmB_zq5zxz6Spim?usp=sharing#scrollTo=8oPa_-rFkL_O)
 - **Concepts Covered**:
   - Logical Operators in Conditions
@@ -85,7 +85,7 @@
 
 ### Day 3 - Introduction to Loops, While Loop.
 - 📝 [Lecture Notes](https://drive.google.com/file/d/1q01mK6PUcC4b6Jc8FatPl0nXiRHm3FKg/view?usp=sharing)
-- 📹 [Recorded Lecture]()
+- 📹 [Recorded Lecture](https://www.facebook.com/iCodeguru/videos/1325566025349768)
 - 💻 [Colab Notebook](https://colab.research.google.com/drive/1ft8lUQ6ZQhuZM7ZmqCll433DqztzEccK?usp=sharing)
 - **Concepts Covered**:
   - Loops in Python
@@ -95,7 +95,7 @@
 
 ### Day 4 - For Loop.
 - 📝 [Lecture Notes](https://drive.google.com/file/d/1q01mK6PUcC4b6Jc8FatPl0nXiRHm3FKg/view?usp=sharing)
-- 📹 [Recorded Lecture]()
+- 📹 [Recorded Lecture](https://www.facebook.com/iCodeguru/videos/1206563414370070)
 - 💻 [Colab Notebook](https://colab.research.google.com/drive/1ft8lUQ6ZQhuZM7ZmqCll433DqztzEccK?usp=sharing)
 - **Concepts Covered**:
   - For Loop
