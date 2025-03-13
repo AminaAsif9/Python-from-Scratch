@@ -20,7 +20,7 @@
 ### Day 1 - Introduction to Programming Language and Importance of Python.
 - 📝 [Lecture Notes]()
 - 📹 [Lecture Recording](https://www.facebook.com/iCodeguru/videos/1119568526637227)
-- 💻 [Colab Notebook]()
+- 💻 [Colab Notebook](https://colab.research.google.com/drive/1_DxNKTG9XDq0mEmwHK1jotT0te9zHY1c?usp=sharing)
 - **Concepts Covered**:
   - Fundamentals of Python
  
@@ -28,7 +28,7 @@
 ### Day 2 - Compiler vs Interpreter, Installation and IDE setup.
 - 📝 [Lecture Notes]()
 - 📹 [Lecture Recording](https://www.facebook.com/iCodeguru/videos/963051185938269)
-- 💻 [Colab Notebook]()
+- 💻 [Colab Notebook](https://colab.research.google.com/drive/1_DxNKTG9XDq0mEmwHK1jotT0te9zHY1c?usp=sharing)
 - **Concepts Covered**:
   - IDE Setup
   - Python Basics
@@ -37,7 +37,7 @@
 ### Day 3 - Basic Syntax, Comments, Keywords, Python Variables, Assigning Values.
 - 📝 [Lecture Notes]()
 - 📹 [Lecture Recording](https://www.facebook.com/iCodeguru/videos/869281148598465)
-- 💻 [Colab Notebook]()
+- 💻 [Colab Notebook](https://colab.research.google.com/drive/1_DxNKTG9XDq0mEmwHK1jotT0te9zHY1c?usp=sharing)
 - **Concepts Covered**:
   - Syntax
   - Variables, Comments
@@ -47,7 +47,7 @@
 ### Day 4 - Getting Address, Data Types, Type Casting, Taking User Input.
 - 📝 [Lecture Notes]()
 - 📹 [Recorded Lecture](https://web.facebook.com/iCodeguru/videos/9167971199958888)
-- 💻 [Colab Notebook]()
+- 💻 [Colab Notebook](https://colab.research.google.com/drive/1_DxNKTG9XDq0mEmwHK1jotT0te9zHY1c?usp=sharing)
 - **Concepts Covered**:
   - Data Types
   - Basic Problem Practice
