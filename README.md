@@ -103,7 +103,7 @@
   - Break, Continue Statement in For Loop
   - Nested Loop
  
-### Day 5 - Practice + Mini-Project
+### Day 5 - Practice + Mini-Projects
 
 
 
