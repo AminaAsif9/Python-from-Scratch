@@ -63,6 +63,8 @@
   - Escape Characters
   - Practice Problems
 
+### 📅[Assignment 1](https://drive.google.com/file/d/18v4VZm5ZwMiUdzMnuga-1gTPGUHi6QCL/view) 
+
 ## Week 2: Conditions and Loops
 ### Day 1 - Introduction to Conditions (if, elif, else) and Short-hand Conditions.
 - 📝 [Lecture Notes](https://drive.google.com/file/d/1kqga1vnbnPZHL7uinSdDVibbww98FgF9/view?usp=sharing)
