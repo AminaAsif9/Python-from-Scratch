@@ -63,7 +63,7 @@
   - Escape Characters
   - Practice Problems
 
-### 📅[Assignment 1](https://drive.google.com/file/d/18v4VZm5ZwMiUdzMnuga-1gTPGUHi6QCL/view) 
+### 📅 [Assignment 1](https://drive.google.com/file/d/18v4VZm5ZwMiUdzMnuga-1gTPGUHi6QCL/view) 
 
 ## Week 2: Conditions and Loops
 ### Day 1 - Introduction to Conditions (if, elif, else) and Short-hand Conditions.
@@ -114,6 +114,15 @@
   - Break, Continue Statement in Loops
   - Nested Loops
 
+### 📅 [Assignment 2](https://colab.research.google.com/drive/1cFmHRArn8ZCFbbkHIrXFf7xQc29j-t4j?usp=sharing) 
+### 📅 [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSe4xW8e2P6BsAuWDrkEywvyZwo7W6XEyiMyFXIFvznXCkkx1A/viewform?usp=header) 
+
+## Week 3: Strings and Lists
+### Day 1 - Introduction to String, Concatenation, f-string, Access String Elements, Looping through String.
+### Day 2 - Slicing and String Methods.
+### Day 3 - Introduction to List, Access List Items, Change List Items, Add Items, Remove Items and Nested List.
+### Day 4 - List Methods, Iterating through List Items and List Comprehension.
+### Day 5 - Practice + Mini-Project
 
 ## Resources
 
