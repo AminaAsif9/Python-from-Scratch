@@ -1,8 +1,8 @@
 ![](https://github.com/AminaAsif9/Python-from-Scratch/blob/main/Learn%20Python%20from%20scratch.jpg)
 
-# Learn Python from Scratch
+# 🔥 Learn Python from Scratch
 
-## Course Information
+## ✔️ Course Information
 - **Duration**: March 3, 2025 - April 4, 2025
 - **Schedule**: Monday to Friday, 6 AM - 7 AM 
 - **Trainers**: 
@@ -13,7 +13,7 @@
   - [Mujib ur Rehman](https://www.linkedin.com/in/mujib-ur-rahman/)
 
 
-## Course Contents
+## ✔️ Course Contents
 
 ## Week 1: Introduction to Python (Python Basics)
 
@@ -124,7 +124,7 @@
 ### Day 4 - List Methods, Iterating through List Items and List Comprehension.
 ### Day 5 - Practice + Mini-Project
 
-## Resources
+## 🚀 Resources
 
 ### Prerequisites
 - None
