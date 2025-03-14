@@ -102,9 +102,15 @@
   - Range Function
   - Break, Continue Statement in For Loop
   - Nested Loop
- 
-### Day 5 - Practice + Mini-Projects
 
+### Day 5 - Practice + Mini-Project
+- 📝 [Lecture Notes](https://www.facebook.com/iCodeguru/videos/1732738087597477)
+- 📹 [Recorded Lecture]()
+- 💻 [Colab Notebook]( https://colab.research.google.com/drive/1OXDSB2Ibx03HzT2PZjWzJabsu6yhfgdX?usp=sharing)
+- **Concepts Covered**:
+  - Loops
+  - Break, Continue Statement in Loops
+  - Nested Loops
 
 
 ## Resources
