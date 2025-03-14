@@ -115,7 +115,7 @@
   - Nested Loops
 
 ### 📅 [Assignment 2](https://colab.research.google.com/drive/1cFmHRArn8ZCFbbkHIrXFf7xQc29j-t4j?usp=sharing) 
-### 📅 [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSe4xW8e2P6BsAuWDrkEywvyZwo7W6XEyiMyFXIFvznXCkkx1A/viewform?usp=header) 
+### ⭐ [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSe4xW8e2P6BsAuWDrkEywvyZwo7W6XEyiMyFXIFvznXCkkx1A/viewform?usp=header) 
 
 ## Week 3: Strings and Lists
 ### Day 1 - Introduction to String, Concatenation, f-string, Access String Elements, Looping through String.
