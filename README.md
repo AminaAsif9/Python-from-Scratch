@@ -119,10 +119,26 @@
 
 ## Week 3: Strings and Lists
 ### Day 1 - Introduction to String, Concatenation, f-string, Access String Elements, Looping through String.
+- 📝 [Lecture Notes]()
+- 📹 [Recorded Lecture](https://www.facebook.com/iCodeguru/videos/9991813607528040)
+- 💻 [Colab Notebook]()
+- **Concepts Covered**:
+  - Strings, Concatenation, f-string 
+  - Access String Elements
+  - Looping through String
+    
 ### Day 2 - Slicing and String Methods.
 ### Day 3 - Introduction to List, Access List Items, Change List Items, Add Items, Remove Items and Nested List.
 ### Day 4 - List Methods, Iterating through List Items and List Comprehension.
 ### Day 5 - Practice + Mini-Project
+
+## Week 4: Tuple, Sets and Dictionaries
+### Day 1 - Introduction to Tuple, Accessing Items, Unpacking Tuple and Multiply Tuple.
+### Day 2 - Tuple Methods, Loop in Tuple and Update tricks.
+### Day 3 - Introduction to Set, Access Items, Set Methods, Looping through Set.
+### Day 4 - Introduction to Dictionaries, Key-Value Pairs, Access Element, Add Elements,
+### Change Value, Iterating through Dictionary, Dictionary Methods, Dict Constructor.
+### Day 5: Mini-Project + Practice.
 
 ## 🚀 Resources
 
