@@ -154,8 +154,10 @@
 - 📹 [Recorded Lecture]()
 - 💻 [Colab Notebook]()
 - **Concepts Covered**:
-  - Introduction to Tuple, Accessing Items, Unpacking Tuple and Multiply Tuple.
-  - Tuple Methods, Loop in Tuple and Update tricks.
+  - Introduction to Tuple, Accessing Items, Unpacking Tuple and Multiply Tuple
+  - Tuple Methods
+  - Loop in Tuple 
+  - Update tricks
 
 ## Week 4: Sets, Dictionaries and Functions 
 ### Day 1 - Introduction to Set, Access Items, Set Methods, Looping through Set.
