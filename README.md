@@ -117,7 +117,7 @@
 ### 📅 [Assignment 2](https://colab.research.google.com/drive/1cFmHRArn8ZCFbbkHIrXFf7xQc29j-t4j?usp=sharing) 
 ### ⭐ [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSe4xW8e2P6BsAuWDrkEywvyZwo7W6XEyiMyFXIFvznXCkkx1A/viewform?usp=header) 
 
-## Week 3: Strings and Lists
+## Week 3: Strings, Lists, and Tuples
 ### Day 1 - Introduction to String, Concatenation, f-string, Access String Elements, Looping through String.
 - 📝 [Lecture Notes]()
 - 📹 [Recorded Lecture](https://www.facebook.com/iCodeguru/videos/9991813607528040)
@@ -128,17 +128,75 @@
   - Looping through String
     
 ### Day 2 - Slicing and String Methods.
-### Day 3 - Introduction to List, Access List Items, Change List Items, Add Items, Remove Items and Nested List.
-### Day 4 - List Methods, Iterating through List Items and List Comprehension.
-### Day 5 - Practice + Mini-Project
+- 📝 [Lecture Notes]()
+- 📹 [Recorded Lecture](https://web.facebook.com/iCodeguru/videos/541685802287243)
+- 💻 [Colab Notebook]()
+- **Concepts Covered**:
+  - String Slicing
 
-## Week 4: Tuple, Sets and Dictionaries
-### Day 1 - Introduction to Tuple, Accessing Items, Unpacking Tuple and Multiply Tuple.
-### Day 2 - Tuple Methods, Loop in Tuple and Update tricks.
-### Day 3 - Introduction to Set, Access Items, Set Methods, Looping through Set.
-### Day 4 - Introduction to Dictionaries, Key-Value Pairs, Access Element, Add Elements,
+### Day 3 - Introduction to List, Access List Items, Change List Items, Add Items, Remove Items and Nested List.
+- 📝 [Lecture Notes]()
+- 📹 [Recorded Lecture](https://web.facebook.com/iCodeguru/videos/1408753180090664/)
+- 💻 [Colab Notebook]()
+- **Concepts Covered**:
+  - Lists
+
+### Day 4 - List Methods, Functions
+- 📝 [Lecture Notes]()
+- 📹 [Recorded Lecture](https://www.facebook.com/iCodeguru/videos/662056902891785)
+- 💻 [Colab Notebook](https://colab.research.google.com/drive/13bCAgHOseE5YZXCUKD4wQtJHi-5MOawt)
+- **Concepts Covered**:
+  - List Methods
+  - Functions
+
+### Day 5 - Tuples, Tuple Methods
+- 📝 [Lecture Notes]()
+- 📹 [Recorded Lecture]()
+- 💻 [Colab Notebook]()
+- **Concepts Covered**:
+  - Introduction to Tuple, Accessing Items, Unpacking Tuple and Multiply Tuple.
+  - Tuple Methods, Loop in Tuple and Update tricks.
+
+## Week 4: Sets, Dictionaries and Functions 
+### Day 1 - Introduction to Set, Access Items, Set Methods, Looping through Set.
+- 📝 [Lecture Notes]()
+- 📹 [Recorded Lecture]()
+- 💻 [Colab Notebook]()
+- **Concepts Covered**:
+  - Sets
+  - Set Methods
+    
+### Day 2 - Introduction to Dictionaries, Key-Value Pairs, Access Element, Add Elements,
 ### Change Value, Iterating through Dictionary, Dictionary Methods, Dict Constructor.
-### Day 5: Mini-Project + Practice.
+- 📝 [Lecture Notes]()
+- 📹 [Recorded Lecture]()
+- 💻 [Colab Notebook]()
+- **Concepts Covered**:
+  - Dictionaries
+  - Key-Value Pairs
+    
+### Day 3 - Introduction to Functions, Built-in Functions.
+- 📝 [Lecture Notes]()
+- 📹 [Recorded Lecture]()
+- 💻 [Colab Notebook]()
+- **Concepts Covered**:
+  - Functions, Built-in Functions
+    
+### Day 4 - Return Value, High Order Function and Recursion.
+- 📝 [Lecture Notes]()
+- 📹 [Recorded Lecture]()
+- 💻 [Colab Notebook]()
+- **Concepts Covered**:
+  - Return Value
+  - Recursion
+    
+### Day 5: Mini-Project + Practice + Q&A session and tips for further learning
+- 📝 [Lecture Notes]()
+- 📹 [Recorded Lecture]()
+- 💻 [Colab Notebook]()
+- **Concepts Covered**:
+  - Project
+  - Discussion
 
 ## 🚀 Resources
 
