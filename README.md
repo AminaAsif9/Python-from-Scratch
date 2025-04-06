@@ -149,7 +149,17 @@
   - List Methods
   - Functions
 
-### Day 5 - Tuples, Tuple Methods
+### Day 5 - Week Recap
+- 📝 [Lecture Notes]()
+- 📹 [Recorded Lecture](https://www.facebook.com/iCodeguru/videos/1208770797307267)
+- 💻 [Colab Notebook]()
+- **Concepts Covered**:
+  - Variables
+  - Data types
+  - Overview
+
+## Week 4: Sets, Dictionaries and Functions 
+### Day 1 - Tuples, Tuple Methods
 - 📝 [Lecture Notes]()
 - 📹 [Recorded Lecture]()
 - 💻 [Colab Notebook]()
@@ -158,31 +168,31 @@
   - Tuple Methods
   - Loop in Tuple 
   - Update tricks
-
-## Week 4: Sets, Dictionaries and Functions 
-### Day 1 - Introduction to Set, Access Items, Set Methods, Looping through Set.
-- 📝 [Lecture Notes]()
-- 📹 [Recorded Lecture]()
-- 💻 [Colab Notebook]()
-- **Concepts Covered**:
-  - Sets
-  - Set Methods
     
-### Day 2 - Introduction to Dictionaries, Key-Value Pairs, Access Element, Add Elements,
-### Change Value, Iterating through Dictionary, Dictionary Methods, Dict Constructor.
+### Day 2 - Introduction to Sets, Set Methods, Looping through Set, Dictionaries, Key-Value Pairs,
+### Iterating through Dictionary, Dictionary Methods, Dict Constructor.
 - 📝 [Lecture Notes]()
 - 📹 [Recorded Lecture]()
 - 💻 [Colab Notebook]()
 - **Concepts Covered**:
+  - Sets introduction
+  - Access Items
+  - Set Methods
+  - Looping through Set
   - Dictionaries
   - Key-Value Pairs
+  - Access Element, Add Elements
+  - Change Value
+  - Iterating through Dictionary
+  - Dictionary Methods
     
 ### Day 3 - Introduction to Functions, Built-in Functions.
 - 📝 [Lecture Notes]()
 - 📹 [Recorded Lecture]()
 - 💻 [Colab Notebook]()
 - **Concepts Covered**:
-  - Functions, Built-in Functions
+  - Functions
+  - Built-in Functions
     
 ### Day 4 - Return Value, High Order Function and Recursion.
 - 📝 [Lecture Notes]()
