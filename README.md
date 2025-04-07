@@ -161,7 +161,7 @@
 ## Week 4: Sets, Dictionaries and Functions 
 ### Day 1 - Tuples, Tuple Methods
 - 📝 [Lecture Notes]()
-- 📹 [Recorded Lecture]()
+- 📹 [Recorded Lecture](https://www.facebook.com/iCodeguru/videos/1209743943871115/)
 - 💻 [Colab Notebook]()
 - **Concepts Covered**:
   - Introduction to Tuple, Accessing Items, Unpacking Tuple and Multiply Tuple
@@ -170,7 +170,7 @@
   - Update tricks
     
 ### Day 2 - Introduction to Sets, Set Methods, Looping through Set, Dictionaries, Key-Value Pairs,
-### Iterating through Dictionary, Dictionary Methods, Dict Constructor.
+### Iterating through Dictionary, Dictionary Methods.
 - 📝 [Lecture Notes]()
 - 📹 [Recorded Lecture]()
 - 💻 [Colab Notebook]()
