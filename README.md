@@ -162,7 +162,7 @@
 ### Day 1 - Tuples, Tuple Methods
 - 📝 [Lecture Notes]()
 - 📹 [Recorded Lecture](https://www.facebook.com/iCodeguru/videos/1209743943871115/)
-- 💻 [Colab Notebook]()
+- 💻 [Colab Notebook](https://colab.research.google.com/drive/1u47awDI8x1NJuu3LVz68VgL7Dj0By9br?usp=sharing)
 - **Concepts Covered**:
   - Introduction to Tuple, Accessing Items, Unpacking Tuple and Multiply Tuple
   - Tuple Methods
@@ -173,7 +173,7 @@
 ### Iterating through Dictionary, Dictionary Methods.
 - 📝 [Lecture Notes]()
 - 📹 [Recorded Lecture]()
-- 💻 [Colab Notebook]()
+- 💻 [Colab Notebook](https://colab.research.google.com/drive/1u47awDI8x1NJuu3LVz68VgL7Dj0By9br?usp=sharing)
 - **Concepts Covered**:
   - Sets introduction
   - Access Items
