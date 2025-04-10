@@ -4,7 +4,7 @@
 
 ## ✔️ Course Information
 - **Duration**: March 3, 2025 - April 4, 2025
-- **Schedule**: Monday to Friday, 6 AM - 7 AM 
+- **Schedule**: Monday to Friday, 7 AM - 8 AM 
 - **Trainers**: 
   - [Amina](https://www.linkedin.com/in/amina-work/)
   - [Mujahid Afridi](https://linkedin.com/in/mujahid-Afridi)
@@ -172,7 +172,7 @@
 ### Day 2 - Introduction to Sets, Set Methods, Looping through Set, Dictionaries, Key-Value Pairs,
 ### Iterating through Dictionary, Dictionary Methods.
 - 📝 [Lecture Notes]()
-- 📹 [Recorded Lecture]()
+- 📹 [Recorded Lecture](https://www.facebook.com/watch/?v=1089660836331318)
 - 💻 [Colab Notebook](https://colab.research.google.com/drive/1u47awDI8x1NJuu3LVz68VgL7Dj0By9br?usp=sharing)
 - **Concepts Covered**:
   - Sets introduction
@@ -188,16 +188,16 @@
     
 ### Day 3 - Introduction to Functions, Built-in Functions.
 - 📝 [Lecture Notes]()
-- 📹 [Recorded Lecture]()
-- 💻 [Colab Notebook]()
+- 📹 [Recorded Lecture](https://www.facebook.com/iCodeguru/videos/676326215337439)
+- 💻 [Colab Notebook](https://colab.research.google.com/drive/1u47awDI8x1NJuu3LVz68VgL7Dj0By9br?usp=sharing#scrollTo=XXQHRFxAUn40)
 - **Concepts Covered**:
   - Functions
   - Built-in Functions
     
 ### Day 4 - Return Value, High Order Function and Recursion.
 - 📝 [Lecture Notes]()
-- 📹 [Recorded Lecture]()
-- 💻 [Colab Notebook]()
+- 📹 [Recorded Lecture](https://www.facebook.com/iCodeguru/videos/640360502239242)
+- 💻 [Colab Notebook](https://colab.research.google.com/drive/1u47awDI8x1NJuu3LVz68VgL7Dj0By9br?usp=sharing#scrollTo=XXQHRFxAUn40)
 - **Concepts Covered**:
   - Return Value
   - Recursion
@@ -205,7 +205,7 @@
 ### Day 5: Mini-Project + Practice + Q&A session and tips for further learning
 - 📝 [Lecture Notes]()
 - 📹 [Recorded Lecture]()
-- 💻 [Colab Notebook]()
+- 💻 [Colab Notebook](https://colab.research.google.com/drive/1u47awDI8x1NJuu3LVz68VgL7Dj0By9br?usp=sharing#scrollTo=XXQHRFxAUn40)
 - **Concepts Covered**:
   - Project
   - Discussion
