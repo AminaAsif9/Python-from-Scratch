@@ -3,7 +3,7 @@
 # 🔥 Learn Python from Scratch
 
 ## ✔️ Course Information
-- **Duration**: March 3, 2025 - April 4, 2025
+- **Duration**: 3rd March 2025 - 11th April 2025
 - **Schedule**: Monday to Friday, 7 AM - 8 AM 
 - **Trainers**: 
   - [Amina](https://www.linkedin.com/in/amina-work/)
