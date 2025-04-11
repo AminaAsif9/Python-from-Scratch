@@ -202,12 +202,12 @@
   - Return Value
   - Recursion
     
-### Day 5: Mini-Project + Practice + Q&A session and tips for further learning
+### Day 5: Discussion + Q&A session and tips for further learning
 - 📝 [Lecture Notes]()
 - 📹 [Recorded Lecture](https://web.facebook.com/iCodeguru/videos/1379419286383997)
 - 💻 [Colab Notebook](https://colab.research.google.com/drive/1u47awDI8x1NJuu3LVz68VgL7Dj0By9br?usp=sharing#scrollTo=XXQHRFxAUn40)
 - **Concepts Covered**:
-  - Project
+  - QnA Session
   - Discussion
 
 ## 🚀 Resources
